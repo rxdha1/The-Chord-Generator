@@ -1,3 +1,6 @@
+## About
+The Record Label Hub presents ChordGenerator: a free and opensource chords engine that prompts the user for Key Signature then creates a unique and random chord progression in that Key, empowered by the RL Ai technology stack. The Chord Generator asks user to name the output file and outputs a .mid aka MIDI file for the chords it generates. Make your next hit with The Record Label's Chord Generator Now!
+
 Once You Have VS Code or IDE with Python installed:
 ## Summary of Commands
 
