@@ -234,4 +234,4 @@ print(f"MIDI file saved as '{filename}'")
 
 Your new midi file is in the directory! Happy jamming!
 
-This service is provided to you for FREE by TheRecordLabel.ai Community.
+This service is provided to you for FREE by The Record Label Community.
